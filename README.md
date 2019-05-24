@@ -13,3 +13,5 @@ openworm time browser functional design concept
 <br>slices are also provided to if this would help to clear the mess. Number of slices can be chosen (here 5). And start number gradually changed from 0 to 50 which can make it a movie-like mode
 <br><img src = "https://github.com/Brain302/somebrowser/blob/master/worm_slices.jpg?raw=true">
 <br>because of the file's light weight could be added to docker experiment output
+<br>
+<br>html file attached, however it was created only for screenshot purposes and might not work. the main purpose is to discuss what functioalities can be added and where it can be used, which 3D framework fits the best (currently three.js), and its possible input data sources
