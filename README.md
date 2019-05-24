@@ -1,5 +1,5 @@
 # somebrowser
-openworm time browser functional design concept
+openworm time browser functional design concept (for brevity only AVBL, AVBR left into brain. 2 big yellow columns in top left corner)
 <img src= "https://github.com/Brain302/somebrowser/blob/master/worm_void.jpg?raw=true">
 <br>which is 3D (worm2D diagram vs time) representation of this chart
 <br><img src="https://github.com/openworm/OpenWorm/blob/master/img/neuron-activity.png?raw=true" width=200>
