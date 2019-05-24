@@ -8,3 +8,7 @@ openworm time browser functional design concept
 <br><img src ="https://github.com/Brain302/somebrowser/blob/master/worm_DD1_cascade.jpg?raw=true">
 <br>more complicated cascade from AVBL:
 <br><img src ="https://github.com/Brain302/somebrowser/blob/master/worm_ABVL_cascade.jpg?raw=true">
+<br>all potential links can be hinted between neurons. or all links (which is messy)
+<br><img src = "https://github.com/Brain302/somebrowser/blob/master/worm_connectome.jpg?raw=true">
+<br>slices are also provided to if this would help to clear the mess. Number of slices can be chosen (here 5). And start number gradually changed from 0 to 50 which can make it a movie-like mode
+<br>
